@@ -3,7 +3,7 @@ import { SEARCH_UNIVERSITY } from "../../helpers/actionTypes";
 export function searchUniversity(value) {
   return async dispatch => {
     try {
-      const url = "/search?name=" + value;
+      const url = "http://universities.hipolabs.com/search?name=" + value;
       let header = new Headers({
         "Access-Control-Allow-Origin": "*",
         Accept: "application/json",
