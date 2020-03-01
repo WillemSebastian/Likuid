@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4dbfe2cbeb22480b64fb99fd9dd8c0a",
+    "revision": "887525cf703ee597563bbd71d973456a",
     "url": "/Likuid/index.html"
   },
   {
